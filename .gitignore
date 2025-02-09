@@ -1,0 +1,4 @@
+.angular/cache/18.2.12/angular-master-portfolio/vite/deps/_metadata.json
+node_modules/*
+node_modules/.bin/node-gyp
+.angular/*
